@@ -1,7 +1,10 @@
 testfile added.
-<<<<<<< HEAD
 line1
 line22
 line31
 line32
 line33
+===
+new line
+new line3
+>>>>>>> feature31
